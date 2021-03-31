@@ -1,5 +1,5 @@
-This is part of the research project that I develop as a grad student. It focuses on Be Stars and the use of Machine Learning to produce meaningful insigths.
-The data where obtained by the BeSOS
+This is part of the research project that I developed as a grad student. It focuses on Be Stars and the use of Machine Learning to produce meaningful insigths.
+The data are free and can be obtained obtained from [BeSOS](http://besos.ifa.uv.cl/).
 ## Be-stars
 Be-stars are a special type of B-stars that are rapidly rotating and have a ring surrounding its equator (decretion circumstrellar disk). 
 The mechanism responsible for the disk material ejection from the central star is not well understood. 
