@@ -3,7 +3,7 @@ This work was inspired by the research project I conducted during my graduate st
 
 **Introduction**  
 
-Be stars are a peculiar class of rapidly rotating B-type stars surrounded by a circumstellar decretion disk concentrated along the stellar equator. The mechanism that drives the ejection of material from the stellar surface into this disk remains uncertain, though rapid rotation is believed to play a key role. The disk produces prominent emission lines, most notably from the Balmer series of hydrogen. In addition, numerous Fe II emission lines originate in the same region. Among the Balmer lines, H-alpha is the brightest feature in the visible spectrum. The shape and properties of these line profiles provide direct insight into the disk’s structure, geometry, and dynamics.
+Be-stars are a peculiar class of rapidly rotating B-type stars surrounded by a circumstellar decretion disk concentrated along the stellar equator. The mechanism that drives the ejection of material from the stellar surface into this disk remains uncertain, though rapid rotation is believed to play a key role. The disk produces prominent emission lines, most notably from the Balmer series of hydrogen. In addition, numerous Fe II emission lines originate in the same region. Among the Balmer lines, H-alpha is the brightest feature in the visible spectrum. The shape and properties of these line profiles provide direct insight into the disk’s structure, geometry, and dynamics.
 
 Spectra can be categorized into two broad groups: stars with disks and stars without disks. For stars with disks, spectra were further subdivided according to inclination angle relative to the observer, classified as pole-on, edge-on, or intermediate.
 
