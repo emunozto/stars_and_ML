@@ -1,4 +1,4 @@
-This work was inspired by the research project I conducted during my graduate studies. The focus is on Be stars and the application of machine learning techniques to extract meaningful insights into their spectral properties and disk dynamics. The primary dataset was obtained from **Kitt Peak Observatory**, while additional publicly available data can be accessed through the **Be Star Spectra (BeSOS) database**  [BeSOS](http://besos.ifa.uv.cl/).
+This work was inspired by the research project I conducted during my graduate studies. The focus is on Be-stars and the application of machine learning techniques to extract meaningful insights into their spectral properties and disk dynamics. The primary dataset was obtained from **Kitt Peak Observatory**, while additional publicly available data can be accessed through the **Be Star Spectra (BeSOS) database**  [BeSOS](http://besos.ifa.uv.cl/).
 ## Be-stars
 
 **Introduction**  
