@@ -6,7 +6,7 @@ Be-stars are a peculiar class of rapidly rotating B-type stars surrounded by a c
 
 Spectra can be categorized into two broad groups, stars with disks and stars without disks. For stars with disks, spectra were further subdivided according to inclination angle relative to the observer, classified as pole-on, edge-on, or intermediate.
 
-This project applied machine learning algorithms to analyze Be-star spectral lines, with the dual goal of characterizing disk dynamics and identifying the regions responsible for generating different line profiles. A first step was to categorize spectra into two broad groups: stars with disks and stars without disks.
+This project applied machine learning algorithms to analyze Be-star spectral lines, with the dual goal of characterizing disk dynamics and identifying the regions responsible for generating different line profiles. A first step was to categorize spectra into two broad groups, stars with disks and stars without disks.
 
 
 **Metodology**  
@@ -14,7 +14,7 @@ Unsupervised clustering was then performed using Complete Linkage Agglomerative 
 
 
 **Conclusion**  
-The clustering analysis revealed natural groupings consistent with physical expectations of disk geometry. Double-peaked H-α emission profiles emerged as a signature of circumstellar disks. The separation between the two peaks was found to correlate strongly with disk inclination: smaller separations for nearly pole-on systems and larger separations for edge-on orientations. These results demonstrate that unsupervised methods can recover meaningful physical distinctions directly from spectral data.
+The clustering analysis revealed natural groupings consistent with physical expectations of disk geometry. Double-peaked H-α emission profiles emerged as a signature of circumstellar disks. The separation between the two peaks was found to correlate strongly with disk inclination, smaller separations for nearly pole-on systems and larger separations for edge-on orientations. These results demonstrate that unsupervised methods can recover meaningful physical distinctions directly from spectral data.
 The H-alpha lines produced by the disk are double peak, the peak separation is strongly related to the disk inclination respect to the plane of observation.
 
 
